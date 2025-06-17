@@ -1,0 +1,13 @@
+[
+  {
+    "repository": "device_motorola_sm6225-common",
+    "target_path": "device/motorola/sm6225-common",
+    "remote": "evo-devices"
+  },
+  {
+    "repository": "Deivid-21s-Sources/proprietary_vendor_motorola_hawao",
+    "target_path": "vendor/motorola/hawao",
+    "remote": "github-non-los",
+    "branch": "lineage-22.2"
+  }
+]
